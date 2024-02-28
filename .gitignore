@@ -1,0 +1,32 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj/
+_test/
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+
+# Kernel Module Compile Results
+*.ko
+*.mod.*
+.mod.c
+.mod.o
+
+# Debug files
+*.out
+*.test
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Output of the dlv debugger
+.idea/
+
+# End of https://www.gitignore.io/api/go
